@@ -1,0 +1,2765 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-09-07T21:45:20.319+02:00
+  initializedAtString: 2020-09-07T20:49:37.440+02:00
+  entries:
+  - path: Assets\Fantasy Skybox FREE.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE.meta
+    projectPath: Assets\Fantasy Skybox FREE.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_01.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_01.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_01.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_01.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01_Sunless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_01_Sunless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01_Sunless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01_Sunless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_01_Sunless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01_Sunless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01_Sunless.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_01_Sunless.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01_Sunless.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01_Sunless.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_01_Sunless.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_01_Sunless.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_02.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_02.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_02.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_02.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02_Sunless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_02_Sunless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02_Sunless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02_Sunless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_02_Sunless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02_Sunless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02_Sunless.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_02_Sunless.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02_Sunless.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02_Sunless.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_02_Sunless.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_02_Sunless.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_03.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_03.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_03.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_03.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03_Sunless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_03_Sunless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03_Sunless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03_Sunless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_03_Sunless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03_Sunless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03_Sunless.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_03_Sunless.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03_Sunless.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03_Sunless.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_03_Sunless.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_03_Sunless.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_04.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_04.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_04.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_04.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04_Sunless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_04_Sunless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04_Sunless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04_Sunless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_04_Sunless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04_Sunless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04_Sunless.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_04_Sunless.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04_Sunless.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04_Sunless.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_04_Sunless.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_04_Sunless.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_05.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_05.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_05.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_05.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05_Sunless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_05_Sunless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05_Sunless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05_Sunless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_05_Sunless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05_Sunless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05_Sunless.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_05_Sunless.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05_Sunless.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05_Sunless.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_05_Sunless.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_05_Sunless.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_06.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_06.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_06.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_06.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06_Sunless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_06_Sunless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06_Sunless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06_Sunless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_06_Sunless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06_Sunless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06_Sunless.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_06_Sunless.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06_Sunless.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06_Sunless.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Day_06_Sunless.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Day_06_Sunless.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_01.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_01.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_01.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_01.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01_Moonless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_01_Moonless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01_Moonless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01_Moonless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_01_Moonless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01_Moonless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01_Moonless.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_01_Moonless.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01_Moonless.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01_Moonless.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_01_Moonless.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_01_Moonless.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_02.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_02.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_02.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_02.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02_Moonless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_02_Moonless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02_Moonless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02_Moonless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_02_Moonless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02_Moonless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02_Moonless.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_02_Moonless.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02_Moonless.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02_Moonless.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_02_Moonless.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_02_Moonless.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_03.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_03.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_03.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_03.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03_Moonless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_03_Moonless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03_Moonless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03_Moonless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_03_Moonless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03_Moonless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03_Moonless.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_03_Moonless.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03_Moonless.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03_Moonless.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\FS000_Night_03_Moonless.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\FS000_Night_03_Moonless.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\Materials.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\Materials.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\Materials\FS000_Night_01.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\Materials\FS000_Night_01.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\Materials\FS000_Night_01.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\Materials\FS000_Night_01.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\Materials\FS000_Night_01.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\Materials\FS000_Night_01.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\Materials\FS000_Night_01_Moonless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\Materials\FS000_Night_01_Moonless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\Materials\FS000_Night_01_Moonless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\Materials\FS000_Night_01_Moonless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\Materials\FS000_Night_01_Moonless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\Materials\FS000_Night_01_Moonless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\Materials\FS000_Night_03_Moonless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\Materials\FS000_Night_03_Moonless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\Materials\FS000_Night_03_Moonless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\Classic\Materials\FS000_Night_03_Moonless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\Classic\Materials\FS000_Night_03_Moonless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\Classic\Materials\FS000_Night_03_Moonless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Day.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Day.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Day.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Day.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day_Sunless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Day_Sunless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day_Sunless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day_Sunless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Day_Sunless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day_Sunless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day_Sunless.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Day_Sunless.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day_Sunless.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day_Sunless.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Day_Sunless.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Day_Sunless.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Night.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Night.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Night.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Night.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night_Moonless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Night_Moonless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night_Moonless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night_Moonless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Night_Moonless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night_Moonless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night_Moonless.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Night_Moonless.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night_Moonless.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night_Moonless.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Night_Moonless.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Night_Moonless.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Rainy.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Rainy.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Rainy.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Rainy.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Rainy.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Rainy.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Rainy.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Rainy.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Rainy.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Rainy.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Rainy.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Rainy.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Snowy.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Snowy.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Snowy.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Snowy.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Snowy.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Snowy.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Snowy.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Snowy.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Snowy.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Snowy.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Snowy.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Snowy.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunrise.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Sunrise.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunrise.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunrise.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Sunrise.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunrise.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunrise.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Sunrise.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunrise.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunrise.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Sunrise.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunrise.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunset.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Sunset.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunset.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunset.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Sunset.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunset.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunset.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Sunset.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunset.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunset.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS002\FS002_Sunset.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS002\FS002_Sunset.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Day.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Day.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Day.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Day.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day_Sunless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Day_Sunless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day_Sunless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day_Sunless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Day_Sunless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day_Sunless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day_Sunless.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Day_Sunless.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day_Sunless.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day_Sunless.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Day_Sunless.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Day_Sunless.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Night.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Night.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Night.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Night.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night_Moonless.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Night_Moonless.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night_Moonless.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night_Moonless.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Night_Moonless.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night_Moonless.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night_Moonless.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Night_Moonless.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night_Moonless.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night_Moonless.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Night_Moonless.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Night_Moonless.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Rainy.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Rainy.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Rainy.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Rainy.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Rainy.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Rainy.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Rainy.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Rainy.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Rainy.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Rainy.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Rainy.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Rainy.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Snowy.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Snowy.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Snowy.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Snowy.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Snowy.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Snowy.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Snowy.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Snowy.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Snowy.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Snowy.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Snowy.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Snowy.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunrise.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Sunrise.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunrise.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunrise.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Sunrise.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunrise.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunrise.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Sunrise.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunrise.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunrise.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Sunrise.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunrise.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunset.mat
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Sunset.mat
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunset.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunset.mat.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Sunset.mat.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunset.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunset.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Sunset.png
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunset.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunset.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Materials\FS003\FS003_Sunset.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Materials\FS003\FS003_Sunset.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Readme.txt
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Readme.txt
+    projectPath: Assets\Fantasy Skybox FREE\Readme.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Readme.txt.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Readme.txt.meta
+    projectPath: Assets\Fantasy Skybox FREE\Readme.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Brush_Flower.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Brush_Flower.png
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Brush_Flower.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Brush_Flower.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Brush_Flower.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Brush_Flower.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Brush_Grass_01.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Brush_Grass_01.png
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Brush_Grass_01.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Brush_Grass_01.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Brush_Grass_01.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Brush_Grass_01.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Brush_Grass_02.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Brush_Grass_02.png
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Brush_Grass_02.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Brush_Grass_02.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Brush_Grass_02.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Brush_Grass_02.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Demo.unity
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Demo.unity
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Demo.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Demo.unity.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Demo.unity.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Demo.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\SampleTerrain.asset
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\SampleTerrain.asset
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\SampleTerrain.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\SampleTerrain.asset.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\SampleTerrain.asset.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\SampleTerrain.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\TerrainDirt.terrainlayer
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\TerrainDirt.terrainlayer
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\TerrainDirt.terrainlayer
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\TerrainDirt.terrainlayer.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\TerrainDirt.terrainlayer.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\TerrainDirt.terrainlayer.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\TerrainGrass.terrainlayer
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\TerrainGrass.terrainlayer
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\TerrainGrass.terrainlayer
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\TerrainGrass.terrainlayer.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\TerrainGrass.terrainlayer.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\TerrainGrass.terrainlayer.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\TerrainRock.terrainlayer
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\TerrainRock.terrainlayer
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\TerrainRock.terrainlayer
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\TerrainRock.terrainlayer.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\TerrainRock.terrainlayer.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\TerrainRock.terrainlayer.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Texture_Dirt_Diffuse.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Texture_Dirt_Diffuse.png
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Texture_Dirt_Diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Texture_Dirt_Diffuse.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Texture_Dirt_Diffuse.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Texture_Dirt_Diffuse.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Texture_Dirt_Normal.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Texture_Dirt_Normal.png
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Texture_Dirt_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Texture_Dirt_Normal.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Texture_Dirt_Normal.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Texture_Dirt_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Texture_Grass_Diffuse.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Texture_Grass_Diffuse.png
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Texture_Grass_Diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Texture_Grass_Diffuse.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Texture_Grass_Diffuse.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Texture_Grass_Diffuse.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Texture_Grass_Normal.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Texture_Grass_Normal.png
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Texture_Grass_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Texture_Grass_Normal.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Texture_Grass_Normal.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Texture_Grass_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Texture_Rock_Diffuse.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Texture_Rock_Diffuse.png
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Texture_Rock_Diffuse.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Texture_Rock_Diffuse.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Texture_Rock_Diffuse.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Texture_Rock_Diffuse.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Texure_Rock_Normal.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Texure_Rock_Normal.png
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Texure_Rock_Normal.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fantasy Skybox FREE\Scenes\Texure_Rock_Normal.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Fantasy Skybox
+      FREE\Scenes\Texure_Rock_Normal.png.meta
+    projectPath: Assets\Fantasy Skybox FREE\Scenes\Texure_Rock_Normal.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Bana1.unity
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Assets\Scenes\Bana1.unity
+    projectPath: Assets\Scenes\Bana1.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\00\00b5eda4c54c7d2b16da3d275125896f
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\00\00b5eda4c54c7d2b16da3d275125896f
+    projectPath: Library\Artifacts\00\00b5eda4c54c7d2b16da3d275125896f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\01\01636082a50009cec0dab486467f1796
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\01\01636082a50009cec0dab486467f1796
+    projectPath: Library\Artifacts\01\01636082a50009cec0dab486467f1796
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\05\05184a79af32cb293ca03ea2fe9c6849
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\05\05184a79af32cb293ca03ea2fe9c6849
+    projectPath: Library\Artifacts\05\05184a79af32cb293ca03ea2fe9c6849
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\05\05e35695525cdf661c6260b974472f5b
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\05\05e35695525cdf661c6260b974472f5b
+    projectPath: Library\Artifacts\05\05e35695525cdf661c6260b974472f5b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\07\07338ae5e4ec0672e3903c54f7f096d4
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\07\07338ae5e4ec0672e3903c54f7f096d4
+    projectPath: Library\Artifacts\07\07338ae5e4ec0672e3903c54f7f096d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\08\081b1d3e30de7069b53889a5b9e40f99
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\08\081b1d3e30de7069b53889a5b9e40f99
+    projectPath: Library\Artifacts\08\081b1d3e30de7069b53889a5b9e40f99
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\09\0959cbb90cc971aaf6f2655c0155b136
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\09\0959cbb90cc971aaf6f2655c0155b136
+    projectPath: Library\Artifacts\09\0959cbb90cc971aaf6f2655c0155b136
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0a\0a91e384df6869ec3057cb4855b0c664
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\0a\0a91e384df6869ec3057cb4855b0c664
+    projectPath: Library\Artifacts\0a\0a91e384df6869ec3057cb4855b0c664
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0d\0d114e8607ba71a6be746890a4f57caf
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\0d\0d114e8607ba71a6be746890a4f57caf
+    projectPath: Library\Artifacts\0d\0d114e8607ba71a6be746890a4f57caf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0d\0da9dc276da3a69952b17e7bd455328e
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\0d\0da9dc276da3a69952b17e7bd455328e
+    projectPath: Library\Artifacts\0d\0da9dc276da3a69952b17e7bd455328e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0e\0e87b4efb1f0d0e544b0abdb674b0521
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\0e\0e87b4efb1f0d0e544b0abdb674b0521
+    projectPath: Library\Artifacts\0e\0e87b4efb1f0d0e544b0abdb674b0521
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\11\11edd97bbe215c87e40986c5c1069ab7
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\11\11edd97bbe215c87e40986c5c1069ab7
+    projectPath: Library\Artifacts\11\11edd97bbe215c87e40986c5c1069ab7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\12\12fff8a663e764fcf4b90f6992ce92ab
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\12\12fff8a663e764fcf4b90f6992ce92ab
+    projectPath: Library\Artifacts\12\12fff8a663e764fcf4b90f6992ce92ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\14\14e0d1097605b674a67d28f51e00c613
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\14\14e0d1097605b674a67d28f51e00c613
+    projectPath: Library\Artifacts\14\14e0d1097605b674a67d28f51e00c613
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\19\1989a962c2d3dc3a4b1bd0c43e2f6c05
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\19\1989a962c2d3dc3a4b1bd0c43e2f6c05
+    projectPath: Library\Artifacts\19\1989a962c2d3dc3a4b1bd0c43e2f6c05
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1a\1ad99dc940e303888ea6d960d6fba761
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\1a\1ad99dc940e303888ea6d960d6fba761
+    projectPath: Library\Artifacts\1a\1ad99dc940e303888ea6d960d6fba761
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1d\1d3b773ec78c9b77002413fac6f3b08a
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\1d\1d3b773ec78c9b77002413fac6f3b08a
+    projectPath: Library\Artifacts\1d\1d3b773ec78c9b77002413fac6f3b08a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1e\1e48664d9c6e4984c8ec1c2d80dfa224
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\1e\1e48664d9c6e4984c8ec1c2d80dfa224
+    projectPath: Library\Artifacts\1e\1e48664d9c6e4984c8ec1c2d80dfa224
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1e\1ed7b96677a12faff0a80ab8e8c7e083
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\1e\1ed7b96677a12faff0a80ab8e8c7e083
+    projectPath: Library\Artifacts\1e\1ed7b96677a12faff0a80ab8e8c7e083
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1f\1f178267ce8c02624f676a64a275db90
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\1f\1f178267ce8c02624f676a64a275db90
+    projectPath: Library\Artifacts\1f\1f178267ce8c02624f676a64a275db90
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1f\1fd09faea0c24b0e449b0265713d908d
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\1f\1fd09faea0c24b0e449b0265713d908d
+    projectPath: Library\Artifacts\1f\1fd09faea0c24b0e449b0265713d908d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\21\2124320d27f147fb594c7490f51fd559
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\21\2124320d27f147fb594c7490f51fd559
+    projectPath: Library\Artifacts\21\2124320d27f147fb594c7490f51fd559
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\21\216bee4d510efa58c5091cc764120e1d
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\21\216bee4d510efa58c5091cc764120e1d
+    projectPath: Library\Artifacts\21\216bee4d510efa58c5091cc764120e1d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\24\24b830cfcc74bbb373d1b992e67032f3
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\24\24b830cfcc74bbb373d1b992e67032f3
+    projectPath: Library\Artifacts\24\24b830cfcc74bbb373d1b992e67032f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\26\26193ac9139479e1d82895a7a3bb477c
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\26\26193ac9139479e1d82895a7a3bb477c
+    projectPath: Library\Artifacts\26\26193ac9139479e1d82895a7a3bb477c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\29\2933b3502aa3ed960a88c7cadc85405f
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\29\2933b3502aa3ed960a88c7cadc85405f
+    projectPath: Library\Artifacts\29\2933b3502aa3ed960a88c7cadc85405f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2a\2a929ce590e2d932dbb3624192760643
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\2a\2a929ce590e2d932dbb3624192760643
+    projectPath: Library\Artifacts\2a\2a929ce590e2d932dbb3624192760643
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2c\2c4ff7bad5763c5f5b639d6c4c5b7d1e
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\2c\2c4ff7bad5763c5f5b639d6c4c5b7d1e
+    projectPath: Library\Artifacts\2c\2c4ff7bad5763c5f5b639d6c4c5b7d1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2c\2c878dbcecd867dfc5ec1232095ae04b
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\2c\2c878dbcecd867dfc5ec1232095ae04b
+    projectPath: Library\Artifacts\2c\2c878dbcecd867dfc5ec1232095ae04b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2d3db3b5b0ffbc651c4a8092008a46df
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\2d\2d3db3b5b0ffbc651c4a8092008a46df
+    projectPath: Library\Artifacts\2d\2d3db3b5b0ffbc651c4a8092008a46df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2d\2d7ed3fc4b5e92079c58ce6059e40695
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\2d\2d7ed3fc4b5e92079c58ce6059e40695
+    projectPath: Library\Artifacts\2d\2d7ed3fc4b5e92079c58ce6059e40695
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2f\2f08edd475d6453d48ff0d46e33f00e1
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\2f\2f08edd475d6453d48ff0d46e33f00e1
+    projectPath: Library\Artifacts\2f\2f08edd475d6453d48ff0d46e33f00e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\32\3228a55eb31b84558a59e6b81638721e
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\32\3228a55eb31b84558a59e6b81638721e
+    projectPath: Library\Artifacts\32\3228a55eb31b84558a59e6b81638721e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\32\32ab65bf4455ebec292c2c0915f967ec
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\32\32ab65bf4455ebec292c2c0915f967ec
+    projectPath: Library\Artifacts\32\32ab65bf4455ebec292c2c0915f967ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\32\32ed52b33403c0907b5f124666cbef61
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\32\32ed52b33403c0907b5f124666cbef61
+    projectPath: Library\Artifacts\32\32ed52b33403c0907b5f124666cbef61
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\341c91ec0401e649cb8909d947647cc2
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\34\341c91ec0401e649cb8909d947647cc2
+    projectPath: Library\Artifacts\34\341c91ec0401e649cb8909d947647cc2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\36\363b748dfecb0df4f152ecd6ee432392
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\36\363b748dfecb0df4f152ecd6ee432392
+    projectPath: Library\Artifacts\36\363b748dfecb0df4f152ecd6ee432392
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\36\36507ea1b56ed65b7c567c59b438340c
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\36\36507ea1b56ed65b7c567c59b438340c
+    projectPath: Library\Artifacts\36\36507ea1b56ed65b7c567c59b438340c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\38\38521fde27b021177591fd890bd0563d
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\38\38521fde27b021177591fd890bd0563d
+    projectPath: Library\Artifacts\38\38521fde27b021177591fd890bd0563d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\39\391822937116186461b6569ef857c295
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\39\391822937116186461b6569ef857c295
+    projectPath: Library\Artifacts\39\391822937116186461b6569ef857c295
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\39\397da8b53749be4a2122f7af9c40723f
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\39\397da8b53749be4a2122f7af9c40723f
+    projectPath: Library\Artifacts\39\397da8b53749be4a2122f7af9c40723f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3b\3bbfbb04ea37eb585e01ce8be5311c40
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\3b\3bbfbb04ea37eb585e01ce8be5311c40
+    projectPath: Library\Artifacts\3b\3bbfbb04ea37eb585e01ce8be5311c40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3c\3cd928b7cdb4756104d34b7eca30f854
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\3c\3cd928b7cdb4756104d34b7eca30f854
+    projectPath: Library\Artifacts\3c\3cd928b7cdb4756104d34b7eca30f854
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3f\3f45e7ef8c6bcf0a82f6071633c99425
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\3f\3f45e7ef8c6bcf0a82f6071633c99425
+    projectPath: Library\Artifacts\3f\3f45e7ef8c6bcf0a82f6071633c99425
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\41\411a401e5be9cae7400e648a8db8359e
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\41\411a401e5be9cae7400e648a8db8359e
+    projectPath: Library\Artifacts\41\411a401e5be9cae7400e648a8db8359e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\43\43700d1eb292737ae66da0e24f53a68b
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\43\43700d1eb292737ae66da0e24f53a68b
+    projectPath: Library\Artifacts\43\43700d1eb292737ae66da0e24f53a68b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\49\49caf82f851adbdd34c5b06bd1cd1c97
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\49\49caf82f851adbdd34c5b06bd1cd1c97
+    projectPath: Library\Artifacts\49\49caf82f851adbdd34c5b06bd1cd1c97
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4a\4a6b8b3a9927a8c859c80978c2f9ce55
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\4a\4a6b8b3a9927a8c859c80978c2f9ce55
+    projectPath: Library\Artifacts\4a\4a6b8b3a9927a8c859c80978c2f9ce55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4a\4af1b7be2e81bf1a86c9bb2b7e3b5f6f
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\4a\4af1b7be2e81bf1a86c9bb2b7e3b5f6f
+    projectPath: Library\Artifacts\4a\4af1b7be2e81bf1a86c9bb2b7e3b5f6f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4b\4bc97c45cc136ac8d6a14b937c6a7601
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\4b\4bc97c45cc136ac8d6a14b937c6a7601
+    projectPath: Library\Artifacts\4b\4bc97c45cc136ac8d6a14b937c6a7601
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4d\4d0646e5f41c3270300b26db1214c37c
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\4d\4d0646e5f41c3270300b26db1214c37c
+    projectPath: Library\Artifacts\4d\4d0646e5f41c3270300b26db1214c37c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4d\4d25c631b526823a8156bc6af21878ca
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\4d\4d25c631b526823a8156bc6af21878ca
+    projectPath: Library\Artifacts\4d\4d25c631b526823a8156bc6af21878ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4d\4d89c7fdeed16e816d0d3bb42e073e93
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\4d\4d89c7fdeed16e816d0d3bb42e073e93
+    projectPath: Library\Artifacts\4d\4d89c7fdeed16e816d0d3bb42e073e93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4d\4d8b2075d06e9c83696cbc96d1f2d298
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\4d\4d8b2075d06e9c83696cbc96d1f2d298
+    projectPath: Library\Artifacts\4d\4d8b2075d06e9c83696cbc96d1f2d298
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4d\4da90c0ee7767bd594be83b30f0322c2
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\4d\4da90c0ee7767bd594be83b30f0322c2
+    projectPath: Library\Artifacts\4d\4da90c0ee7767bd594be83b30f0322c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4e\4e0cc97d836573efa26041f79a5739d1
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\4e\4e0cc97d836573efa26041f79a5739d1
+    projectPath: Library\Artifacts\4e\4e0cc97d836573efa26041f79a5739d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4e\4e30dd43d8cad1bad1737a51b82354de
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\4e\4e30dd43d8cad1bad1737a51b82354de
+    projectPath: Library\Artifacts\4e\4e30dd43d8cad1bad1737a51b82354de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\50\5019cef13c1c56cddefe3542188361e3
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\50\5019cef13c1c56cddefe3542188361e3
+    projectPath: Library\Artifacts\50\5019cef13c1c56cddefe3542188361e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\51\512e7f2a145f365d244bf5b5411c0ce7
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\51\512e7f2a145f365d244bf5b5411c0ce7
+    projectPath: Library\Artifacts\51\512e7f2a145f365d244bf5b5411c0ce7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\53\53d1f93c86f66831535469769dedde94
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\53\53d1f93c86f66831535469769dedde94
+    projectPath: Library\Artifacts\53\53d1f93c86f66831535469769dedde94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\56\56927f719bb48187572a8067a8e7dbd6
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\56\56927f719bb48187572a8067a8e7dbd6
+    projectPath: Library\Artifacts\56\56927f719bb48187572a8067a8e7dbd6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\57\57460fbcdd44b605f41eb3f7ec7cfd89
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\57\57460fbcdd44b605f41eb3f7ec7cfd89
+    projectPath: Library\Artifacts\57\57460fbcdd44b605f41eb3f7ec7cfd89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\58\58860d9f2d109d438b39272428ac7ef0
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\58\58860d9f2d109d438b39272428ac7ef0
+    projectPath: Library\Artifacts\58\58860d9f2d109d438b39272428ac7ef0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\59\59b098b12fdd71b38511e0fb3e78c9e2
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\59\59b098b12fdd71b38511e0fb3e78c9e2
+    projectPath: Library\Artifacts\59\59b098b12fdd71b38511e0fb3e78c9e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\59\59b9884760a3b2ac82ab940ce91f287f
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\59\59b9884760a3b2ac82ab940ce91f287f
+    projectPath: Library\Artifacts\59\59b9884760a3b2ac82ab940ce91f287f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\59\59cba75f998b21322c02f1b1906ac9fc
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\59\59cba75f998b21322c02f1b1906ac9fc
+    projectPath: Library\Artifacts\59\59cba75f998b21322c02f1b1906ac9fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5a\5ae67778753df6af29ce111f8b5c3094
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\5a\5ae67778753df6af29ce111f8b5c3094
+    projectPath: Library\Artifacts\5a\5ae67778753df6af29ce111f8b5c3094
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5b9634fabb86b185da5dfa1df0db0cd5
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\5b\5b9634fabb86b185da5dfa1df0db0cd5
+    projectPath: Library\Artifacts\5b\5b9634fabb86b185da5dfa1df0db0cd5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5d\5d52a829cbdca31f16a2a09fc976e6ce
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\5d\5d52a829cbdca31f16a2a09fc976e6ce
+    projectPath: Library\Artifacts\5d\5d52a829cbdca31f16a2a09fc976e6ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5f\5f9c34638273e1a6768a13e495cd8f2a
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\5f\5f9c34638273e1a6768a13e495cd8f2a
+    projectPath: Library\Artifacts\5f\5f9c34638273e1a6768a13e495cd8f2a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\60\601b171d9c327a5a78897d1cf17c458b
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\60\601b171d9c327a5a78897d1cf17c458b
+    projectPath: Library\Artifacts\60\601b171d9c327a5a78897d1cf17c458b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\61\61cc6d9a3e45434b9fa062d73dad15b1
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\61\61cc6d9a3e45434b9fa062d73dad15b1
+    projectPath: Library\Artifacts\61\61cc6d9a3e45434b9fa062d73dad15b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\64\6446f3d51c7b78c26bf9399e5e6422a4
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\64\6446f3d51c7b78c26bf9399e5e6422a4
+    projectPath: Library\Artifacts\64\6446f3d51c7b78c26bf9399e5e6422a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\64\6480e215c94642fd3887cb314e4978c4
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\64\6480e215c94642fd3887cb314e4978c4
+    projectPath: Library\Artifacts\64\6480e215c94642fd3887cb314e4978c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6c\6c4cb7a5d1b26f4f7e06a78fd131d28b
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\6c\6c4cb7a5d1b26f4f7e06a78fd131d28b
+    projectPath: Library\Artifacts\6c\6c4cb7a5d1b26f4f7e06a78fd131d28b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6c\6ce34199e410b796ff41d38c7e6ca871
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\6c\6ce34199e410b796ff41d38c7e6ca871
+    projectPath: Library\Artifacts\6c\6ce34199e410b796ff41d38c7e6ca871
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\71\71db530e8ce57f78e884ad8b910560e5
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\71\71db530e8ce57f78e884ad8b910560e5
+    projectPath: Library\Artifacts\71\71db530e8ce57f78e884ad8b910560e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\72\72768bbd4807769c85cec07690b461b0
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\72\72768bbd4807769c85cec07690b461b0
+    projectPath: Library\Artifacts\72\72768bbd4807769c85cec07690b461b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\73\731e992ad431fcc1fe3d4c3b0f221dee
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\73\731e992ad431fcc1fe3d4c3b0f221dee
+    projectPath: Library\Artifacts\73\731e992ad431fcc1fe3d4c3b0f221dee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\73\73a43c28021eaadf33346f96dee23282
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\73\73a43c28021eaadf33346f96dee23282
+    projectPath: Library\Artifacts\73\73a43c28021eaadf33346f96dee23282
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\74\740b23f2892feb3ecdf33a3ce1521b8f
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\74\740b23f2892feb3ecdf33a3ce1521b8f
+    projectPath: Library\Artifacts\74\740b23f2892feb3ecdf33a3ce1521b8f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\75\755593ee9ecbe4dcf83c958d9ff7fd24
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\75\755593ee9ecbe4dcf83c958d9ff7fd24
+    projectPath: Library\Artifacts\75\755593ee9ecbe4dcf83c958d9ff7fd24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\76\761a67fc41d8f7167c9d0b032d02878c
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\76\761a67fc41d8f7167c9d0b032d02878c
+    projectPath: Library\Artifacts\76\761a67fc41d8f7167c9d0b032d02878c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7d\7d6a0f67d07cc4c9238d5e7ae05c8078
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\7d\7d6a0f67d07cc4c9238d5e7ae05c8078
+    projectPath: Library\Artifacts\7d\7d6a0f67d07cc4c9238d5e7ae05c8078
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7e\7e5baa72c46fba00f9bcdb644dc47e99
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\7e\7e5baa72c46fba00f9bcdb644dc47e99
+    projectPath: Library\Artifacts\7e\7e5baa72c46fba00f9bcdb644dc47e99
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7f\7faad00e692347cf778b189934a8979f
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\7f\7faad00e692347cf778b189934a8979f
+    projectPath: Library\Artifacts\7f\7faad00e692347cf778b189934a8979f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\84\8454f11aced324c31fc8aca3f517a94d
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\84\8454f11aced324c31fc8aca3f517a94d
+    projectPath: Library\Artifacts\84\8454f11aced324c31fc8aca3f517a94d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\89\897dd124276a7d2cadcbcc1e7d574ab0
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\89\897dd124276a7d2cadcbcc1e7d574ab0
+    projectPath: Library\Artifacts\89\897dd124276a7d2cadcbcc1e7d574ab0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\89\899973a564e8a26fea57930d3f78b643
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\89\899973a564e8a26fea57930d3f78b643
+    projectPath: Library\Artifacts\89\899973a564e8a26fea57930d3f78b643
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8a\8a4b5f815370160e0bc4cbdf9eba0300
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\8a\8a4b5f815370160e0bc4cbdf9eba0300
+    projectPath: Library\Artifacts\8a\8a4b5f815370160e0bc4cbdf9eba0300
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8b\8b0b1886f6a9ec7a4f30c596070470dd
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\8b\8b0b1886f6a9ec7a4f30c596070470dd
+    projectPath: Library\Artifacts\8b\8b0b1886f6a9ec7a4f30c596070470dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8d\8d33d0f7ad975dd50983c19e0c9bc21e
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\8d\8d33d0f7ad975dd50983c19e0c9bc21e
+    projectPath: Library\Artifacts\8d\8d33d0f7ad975dd50983c19e0c9bc21e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e5e690a68c719c4ed1d78d8da83e8b8
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\8e\8e5e690a68c719c4ed1d78d8da83e8b8
+    projectPath: Library\Artifacts\8e\8e5e690a68c719c4ed1d78d8da83e8b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e62017343c045c5344db2923a588432
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\8e\8e62017343c045c5344db2923a588432
+    projectPath: Library\Artifacts\8e\8e62017343c045c5344db2923a588432
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\90ff42370ee61b990bf16ca69b980716
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\90\90ff42370ee61b990bf16ca69b980716
+    projectPath: Library\Artifacts\90\90ff42370ee61b990bf16ca69b980716
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\92\928cd6ff467a38634d1427fbbf96b704
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\92\928cd6ff467a38634d1427fbbf96b704
+    projectPath: Library\Artifacts\92\928cd6ff467a38634d1427fbbf96b704
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\97\97957e110cc0c37772d448a11d0707ec
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\97\97957e110cc0c37772d448a11d0707ec
+    projectPath: Library\Artifacts\97\97957e110cc0c37772d448a11d0707ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\98\980ca19422ce9b9eff6e0cb79f0845bd
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\98\980ca19422ce9b9eff6e0cb79f0845bd
+    projectPath: Library\Artifacts\98\980ca19422ce9b9eff6e0cb79f0845bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\99\998af4f92a3dafa640470e96e7ecff7d
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\99\998af4f92a3dafa640470e96e7ecff7d
+    projectPath: Library\Artifacts\99\998af4f92a3dafa640470e96e7ecff7d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9a08ef97efc1d1787512def5196cdac6
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\9a\9a08ef97efc1d1787512def5196cdac6
+    projectPath: Library\Artifacts\9a\9a08ef97efc1d1787512def5196cdac6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9ac06065222bd670b621b9e4733ebb42
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\9a\9ac06065222bd670b621b9e4733ebb42
+    projectPath: Library\Artifacts\9a\9ac06065222bd670b621b9e4733ebb42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9c\9c874ffb1a448cccbad67094ee5fd3b4
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\9c\9c874ffb1a448cccbad67094ee5fd3b4
+    projectPath: Library\Artifacts\9c\9c874ffb1a448cccbad67094ee5fd3b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9e\9e71cbb336af05af3977cf480fd38a87
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\9e\9e71cbb336af05af3977cf480fd38a87
+    projectPath: Library\Artifacts\9e\9e71cbb336af05af3977cf480fd38a87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a0\a0258fe24a8d88641027edb30ee53aa9
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\a0\a0258fe24a8d88641027edb30ee53aa9
+    projectPath: Library\Artifacts\a0\a0258fe24a8d88641027edb30ee53aa9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a1\a10cafe36b44545ae2fc8cb5c919cdad
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\a1\a10cafe36b44545ae2fc8cb5c919cdad
+    projectPath: Library\Artifacts\a1\a10cafe36b44545ae2fc8cb5c919cdad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a1\a1172a3e1535d2385a0e3c009dcd87ab
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\a1\a1172a3e1535d2385a0e3c009dcd87ab
+    projectPath: Library\Artifacts\a1\a1172a3e1535d2385a0e3c009dcd87ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a3\a360943dca438341158e51c6d3108136
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\a3\a360943dca438341158e51c6d3108136
+    projectPath: Library\Artifacts\a3\a360943dca438341158e51c6d3108136
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a3\a377442c85c74c431a726304247d4ef0
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\a3\a377442c85c74c431a726304247d4ef0
+    projectPath: Library\Artifacts\a3\a377442c85c74c431a726304247d4ef0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a3\a385cd69f3f934a37c77bbd3ac6121a6
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\a3\a385cd69f3f934a37c77bbd3ac6121a6
+    projectPath: Library\Artifacts\a3\a385cd69f3f934a37c77bbd3ac6121a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a3\a3fe2c254c93af1871240f0ee6ecfb04
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\a3\a3fe2c254c93af1871240f0ee6ecfb04
+    projectPath: Library\Artifacts\a3\a3fe2c254c93af1871240f0ee6ecfb04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a4\a4e1db6aca9d24354b2a7fa784ea731b
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\a4\a4e1db6aca9d24354b2a7fa784ea731b
+    projectPath: Library\Artifacts\a4\a4e1db6aca9d24354b2a7fa784ea731b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\aa\aa7f8f660574ca09bc38d5bdde4d507a
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\aa\aa7f8f660574ca09bc38d5bdde4d507a
+    projectPath: Library\Artifacts\aa\aa7f8f660574ca09bc38d5bdde4d507a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\ae0fabd20be3290c134ceab68daad405
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\ae\ae0fabd20be3290c134ceab68daad405
+    projectPath: Library\Artifacts\ae\ae0fabd20be3290c134ceab68daad405
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ae\ae44b26cb81d38305bd4dacf3b86d99a
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\ae\ae44b26cb81d38305bd4dacf3b86d99a
+    projectPath: Library\Artifacts\ae\ae44b26cb81d38305bd4dacf3b86d99a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b0\b032da7237b29ff922a79a9589059626
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\b0\b032da7237b29ff922a79a9589059626
+    projectPath: Library\Artifacts\b0\b032da7237b29ff922a79a9589059626
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b1\b139950ab72dcbf97aeb68cc3d1dc50a
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\b1\b139950ab72dcbf97aeb68cc3d1dc50a
+    projectPath: Library\Artifacts\b1\b139950ab72dcbf97aeb68cc3d1dc50a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b3\b3e5c27283d2e7fe2b20d5c5266b3b72
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\b3\b3e5c27283d2e7fe2b20d5c5266b3b72
+    projectPath: Library\Artifacts\b3\b3e5c27283d2e7fe2b20d5c5266b3b72
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b70092255d7d01a1993cd13bba6f8a25
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\b7\b70092255d7d01a1993cd13bba6f8a25
+    projectPath: Library\Artifacts\b7\b70092255d7d01a1993cd13bba6f8a25
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b76b9373c2ea91fabb84e210d2394cd6
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\b7\b76b9373c2ea91fabb84e210d2394cd6
+    projectPath: Library\Artifacts\b7\b76b9373c2ea91fabb84e210d2394cd6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ba\ba7d5d8648a03e7d1c11376ef84ef4b1
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\ba\ba7d5d8648a03e7d1c11376ef84ef4b1
+    projectPath: Library\Artifacts\ba\ba7d5d8648a03e7d1c11376ef84ef4b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ba\ba8e826c16af79ebd6a8a37e899e7762
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\ba\ba8e826c16af79ebd6a8a37e899e7762
+    projectPath: Library\Artifacts\ba\ba8e826c16af79ebd6a8a37e899e7762
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bb\bb6f205ab974d139ac7949b5daa63680
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\bb\bb6f205ab974d139ac7949b5daa63680
+    projectPath: Library\Artifacts\bb\bb6f205ab974d139ac7949b5daa63680
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bc\bc98d84408f8be206d0300c0275aa738
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\bc\bc98d84408f8be206d0300c0275aa738
+    projectPath: Library\Artifacts\bc\bc98d84408f8be206d0300c0275aa738
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bd\bd7d8f9f4e5ef136f04fad85eb3297d1
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\bd\bd7d8f9f4e5ef136f04fad85eb3297d1
+    projectPath: Library\Artifacts\bd\bd7d8f9f4e5ef136f04fad85eb3297d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bf\bf146dc10a6cf4a4989511f0229332f1
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\bf\bf146dc10a6cf4a4989511f0229332f1
+    projectPath: Library\Artifacts\bf\bf146dc10a6cf4a4989511f0229332f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c05375b49b9fe0c1f8860c5a7536ce95
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\c0\c05375b49b9fe0c1f8860c5a7536ce95
+    projectPath: Library\Artifacts\c0\c05375b49b9fe0c1f8860c5a7536ce95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c1\c12d87c147445ca610b507735b18dd39
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\c1\c12d87c147445ca610b507735b18dd39
+    projectPath: Library\Artifacts\c1\c12d87c147445ca610b507735b18dd39
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c6319600de2eaeab07452c91d1d45a74
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\c6\c6319600de2eaeab07452c91d1d45a74
+    projectPath: Library\Artifacts\c6\c6319600de2eaeab07452c91d1d45a74
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c6effd7d1899a87b0a93bb03e76589c1
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\c6\c6effd7d1899a87b0a93bb03e76589c1
+    projectPath: Library\Artifacts\c6\c6effd7d1899a87b0a93bb03e76589c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c7\c7de5228cfe3420638cf3c5dc35c2a19
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\c7\c7de5228cfe3420638cf3c5dc35c2a19
+    projectPath: Library\Artifacts\c7\c7de5228cfe3420638cf3c5dc35c2a19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c7\c7f5c76c91a5ff827f32c40d68cf291b
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\c7\c7f5c76c91a5ff827f32c40d68cf291b
+    projectPath: Library\Artifacts\c7\c7f5c76c91a5ff827f32c40d68cf291b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c8\c8bb6be29292c37c5cd43ad37eeecad6
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\c8\c8bb6be29292c37c5cd43ad37eeecad6
+    projectPath: Library\Artifacts\c8\c8bb6be29292c37c5cd43ad37eeecad6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c8\c8c46d8bbd8468bcb3133612dcb3c3b4
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\c8\c8c46d8bbd8468bcb3133612dcb3c3b4
+    projectPath: Library\Artifacts\c8\c8c46d8bbd8468bcb3133612dcb3c3b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c9\c94f3f78bfc20afc2bed69bc02526517
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\c9\c94f3f78bfc20afc2bed69bc02526517
+    projectPath: Library\Artifacts\c9\c94f3f78bfc20afc2bed69bc02526517
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cb\cb6f5fea7b9f2f3efdd866df20329601
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\cb\cb6f5fea7b9f2f3efdd866df20329601
+    projectPath: Library\Artifacts\cb\cb6f5fea7b9f2f3efdd866df20329601
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cb\cb763aaa41689a86a7d52006efa30629
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\cb\cb763aaa41689a86a7d52006efa30629
+    projectPath: Library\Artifacts\cb\cb763aaa41689a86a7d52006efa30629
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cd\cde3e84e24313b13ef8dfeced5d0f0db
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\cd\cde3e84e24313b13ef8dfeced5d0f0db
+    projectPath: Library\Artifacts\cd\cde3e84e24313b13ef8dfeced5d0f0db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d0\d04afdff0d5a2be7feea7a3b5e6b85cf
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\d0\d04afdff0d5a2be7feea7a3b5e6b85cf
+    projectPath: Library\Artifacts\d0\d04afdff0d5a2be7feea7a3b5e6b85cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d3\d35852199ba48de006304881a54da120
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\d3\d35852199ba48de006304881a54da120
+    projectPath: Library\Artifacts\d3\d35852199ba48de006304881a54da120
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d4bdad0069b2ad458cfe0a7f1547e5fa
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\d4\d4bdad0069b2ad458cfe0a7f1547e5fa
+    projectPath: Library\Artifacts\d4\d4bdad0069b2ad458cfe0a7f1547e5fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d5\d548dddb670db4af4d164c0c3c65f46e
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\d5\d548dddb670db4af4d164c0c3c65f46e
+    projectPath: Library\Artifacts\d5\d548dddb670db4af4d164c0c3c65f46e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d6\d65a0951587fbd8efc937e8871c283c1
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\d6\d65a0951587fbd8efc937e8871c283c1
+    projectPath: Library\Artifacts\d6\d65a0951587fbd8efc937e8871c283c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\db\dbf6baeab59fe5291820ac2b7e90ec9d
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\db\dbf6baeab59fe5291820ac2b7e90ec9d
+    projectPath: Library\Artifacts\db\dbf6baeab59fe5291820ac2b7e90ec9d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dc\dce6c1adbeef52f1250b878b7dd422f4
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\dc\dce6c1adbeef52f1250b878b7dd422f4
+    projectPath: Library\Artifacts\dc\dce6c1adbeef52f1250b878b7dd422f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\de\dea390f0c74d905dd33fd5ef797d8c88
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\de\dea390f0c74d905dd33fd5ef797d8c88
+    projectPath: Library\Artifacts\de\dea390f0c74d905dd33fd5ef797d8c88
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e1\e11011b74eb9992ca7faac93432b334c
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\e1\e11011b74eb9992ca7faac93432b334c
+    projectPath: Library\Artifacts\e1\e11011b74eb9992ca7faac93432b334c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e1\e153b3ad386ddb117bd0b8e403067bc3
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\e1\e153b3ad386ddb117bd0b8e403067bc3
+    projectPath: Library\Artifacts\e1\e153b3ad386ddb117bd0b8e403067bc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e4\e418126f812c119e337e86856c3bca39
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\e4\e418126f812c119e337e86856c3bca39
+    projectPath: Library\Artifacts\e4\e418126f812c119e337e86856c3bca39
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e7\e7e543d511e080a3ae07284b74002412
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\e7\e7e543d511e080a3ae07284b74002412
+    projectPath: Library\Artifacts\e7\e7e543d511e080a3ae07284b74002412
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e8\e8c8d1b09dc79c4449194e8ce351c51c
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\e8\e8c8d1b09dc79c4449194e8ce351c51c
+    projectPath: Library\Artifacts\e8\e8c8d1b09dc79c4449194e8ce351c51c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e9\e9045b0c316b1b6048037c21dcaf7f64
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\e9\e9045b0c316b1b6048037c21dcaf7f64
+    projectPath: Library\Artifacts\e9\e9045b0c316b1b6048037c21dcaf7f64
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e9\e996a51bcbb10f3ea409e506d31120a1
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\e9\e996a51bcbb10f3ea409e506d31120a1
+    projectPath: Library\Artifacts\e9\e996a51bcbb10f3ea409e506d31120a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\eb\ebc8f408e9bf8a136bae8af907540577
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\eb\ebc8f408e9bf8a136bae8af907540577
+    projectPath: Library\Artifacts\eb\ebc8f408e9bf8a136bae8af907540577
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ec\ecff70d92e1dcd919118a25935c7f39e
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\ec\ecff70d92e1dcd919118a25935c7f39e
+    projectPath: Library\Artifacts\ec\ecff70d92e1dcd919118a25935c7f39e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ee\eed970a4a5e6e3e052a6fdd902390135
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\ee\eed970a4a5e6e3e052a6fdd902390135
+    projectPath: Library\Artifacts\ee\eed970a4a5e6e3e052a6fdd902390135
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f0\f096c76c089fb9c64206f4c489a39d24
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\f0\f096c76c089fb9c64206f4c489a39d24
+    projectPath: Library\Artifacts\f0\f096c76c089fb9c64206f4c489a39d24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f1\f1cf5bb862cee286705d9cb8ba20ac49
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\f1\f1cf5bb862cee286705d9cb8ba20ac49
+    projectPath: Library\Artifacts\f1\f1cf5bb862cee286705d9cb8ba20ac49
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f5\f569cf959ceb45cd5a3545d1328c10c2
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\f5\f569cf959ceb45cd5a3545d1328c10c2
+    projectPath: Library\Artifacts\f5\f569cf959ceb45cd5a3545d1328c10c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f6\f65b48c20a9ba226d3f5f84d083e98e1
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\f6\f65b48c20a9ba226d3f5f84d083e98e1
+    projectPath: Library\Artifacts\f6\f65b48c20a9ba226d3f5f84d083e98e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f8\f8751637d8719244ef68ec55d419fe06
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\f8\f8751637d8719244ef68ec55d419fe06
+    projectPath: Library\Artifacts\f8\f8751637d8719244ef68ec55d419fe06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f9\f9e0b906afdb50b52645883f04b6ff91
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\f9\f9e0b906afdb50b52645883f04b6ff91
+    projectPath: Library\Artifacts\f9\f9e0b906afdb50b52645883f04b6ff91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fa\fa561c98f0ab29ee15631fc4143c0f1d
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\fa\fa561c98f0ab29ee15631fc4143c0f1d
+    projectPath: Library\Artifacts\fa\fa561c98f0ab29ee15631fc4143c0f1d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fb\fb9ecd4acf9db481d7c1aa4a3cc95171
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\fb\fb9ecd4acf9db481d7c1aa4a3cc95171
+    projectPath: Library\Artifacts\fb\fb9ecd4acf9db481d7c1aa4a3cc95171
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fd\fd494c29aed833272e20fae67d26e0af
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\fd\fd494c29aed833272e20fae67d26e0af
+    projectPath: Library\Artifacts\fd\fd494c29aed833272e20fae67d26e0af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ff\fff0aeecb9551def0abc3506c671f246
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Artifacts\ff\fff0aeecb9551def0abc3506c671f246
+    projectPath: Library\Artifacts\ff\fff0aeecb9551def0abc3506c671f246
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Collab\CollabSnapshot_2fb21b58-936d-4f60-b78b-76be634348a7.txt
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\Collab\CollabSnapshot_2fb21b58-936d-4f60-b78b-76be634348a7.txt
+    projectPath: Library\Collab\CollabSnapshot_2fb21b58-936d-4f60-b78b-76be634348a7.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\expandedItems
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\1\16a2b96ae16647d9bf46ed35038d4b7e.bin
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\ShaderCache\1\16a2b96ae16647d9bf46ed35038d4b7e.bin
+    projectPath: Library\ShaderCache\1\16a2b96ae16647d9bf46ed35038d4b7e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\42fd8aa5cd30c610405cde6815252e35.bin
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\ShaderCache\4\42fd8aa5cd30c610405cde6815252e35.bin
+    projectPath: Library\ShaderCache\4\42fd8aa5cd30c610405cde6815252e35.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a4164a3a07d34ae82a31787bd03bbe55.bin
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\ShaderCache\a\a4164a3a07d34ae82a31787bd03bbe55.bin
+    projectPath: Library\ShaderCache\a\a4164a3a07d34ae82a31787bd03bbe55.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d0854fe33fbb29e3c8f2d5ed5b661fef.bin
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\ShaderCache\d\d0854fe33fbb29e3c8f2d5ed5b661fef.bin
+    projectPath: Library\ShaderCache\d\d0854fe33fbb29e3c8f2d5ed5b661fef.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\7a9510-mainStage.json
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Library\StateCache\SceneView\7a9510-mainStage.json
+    projectPath: Library\StateCache\SceneView\7a9510-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\Packages\com.unity.probuilder\Settings.json
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\ProjectSettings\Packages\com.unity.probuilder\Settings.json
+    projectPath: ProjectSettings\Packages\com.unity.probuilder\Settings.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: G:\Dokument\Unity projects\Tower of Eternity V.01\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
